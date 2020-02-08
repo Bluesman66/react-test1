@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "git@github.com:Bluesman66/react-test1.git/static/css/main.d1b05096.chunk.css",
+    "main.js": "git@github.com:Bluesman66/react-test1.git/static/js/main.17c29350.chunk.js",
+    "main.js.map": "git@github.com:Bluesman66/react-test1.git/static/js/main.17c29350.chunk.js.map",
+    "runtime-main.js": "git@github.com:Bluesman66/react-test1.git/static/js/runtime-main.f6c48938.js",
+    "runtime-main.js.map": "git@github.com:Bluesman66/react-test1.git/static/js/runtime-main.f6c48938.js.map",
+    "static/js/2.6af4efe3.chunk.js": "git@github.com:Bluesman66/react-test1.git/static/js/2.6af4efe3.chunk.js",
+    "static/js/2.6af4efe3.chunk.js.map": "git@github.com:Bluesman66/react-test1.git/static/js/2.6af4efe3.chunk.js.map",
+    "index.html": "git@github.com:Bluesman66/react-test1.git/index.html",
+    "precache-manifest.2dfa8a5751931c91f6e48d2d2e4e6182.js": "git@github.com:Bluesman66/react-test1.git/precache-manifest.2dfa8a5751931c91f6e48d2d2e4e6182.js",
+    "service-worker.js": "git@github.com:Bluesman66/react-test1.git/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "git@github.com:Bluesman66/react-test1.git/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.6af4efe3.chunk.js.LICENSE.txt": "git@github.com:Bluesman66/react-test1.git/static/js/2.6af4efe3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "git@github.com:Bluesman66/react-test1.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6c48938.js",
+    "static/js/2.6af4efe3.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.17c29350.chunk.js"
+  ]
+}
